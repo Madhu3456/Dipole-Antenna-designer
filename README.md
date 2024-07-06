@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [Features](#features)
+- [Team Members](#team-members)
 
 ## Overview
 
@@ -38,3 +39,12 @@ In the Design tab and generates in the Analysis tabs:
 5. Azimuthal plot and Elevation plot
 
 Plots are interactive, allowing users to examine and analyze antenna characteristics.
+
+## Team Members
+
+1. Abiroop Mohan - 210002004
+2. Siva Mallidi - 210002051
+3. Adla Sajan Swaroop Reddy - 210002008
+4. Subash Ganti - 210002032
+5. Sowreddy Madhusudhan Reddy - 210002075
+6. Bhukya Vamshi - 210002022
